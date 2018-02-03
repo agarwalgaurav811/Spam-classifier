@@ -13,3 +13,14 @@ dataset
 **spam** folder contain spam emails data and **not_spam** folder contain non spam email data<br>
 Spam Email dataset - http://spamassassin.apache.org/old/publiccorpus/20021010_spam.tar.bz2<br>
 Non Spam Email dataset - http://spamassassin.apache.org/old/publiccorpus/20021010_easy_ham.tar.bz2
+
+
+## Features
+* Log space.
+* Naive Bayes written from scratch.
+* Bag of words model.
+* Laplace smoothing to handle unknown words.
+* Tokenization.
+
+## References
+* https://hackernoon.com/how-to-build-a-simple-spam-detecting-machine-learning-classifier-4471fe6b816e
